@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 hola jajaskjdksjdkjs
 =======
 Trabajo Especial TIO.
@@ -6,3 +7,5 @@ Trabajo Especial TIO.
 Almestro Sebastian
 Bilbao Francisco
 Davila Tobias
+=======
+>>>>>>> parent of 70cd237 (modificacion del readme)
